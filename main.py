@@ -15,7 +15,7 @@ import os
 import re
 
 # ========================= НАСТРОЙКИ =========================
-
+TOKEN = os.getenv("DISCORD_TOKEN")
 MAX_CHARGES = 3
 RECHARGE_MINUTES = 30
 RECHARGE_SECONDS = RECHARGE_MINUTES * 60
