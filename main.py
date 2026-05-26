@@ -15,7 +15,7 @@ import os
 import re
 
 # ========================= НАСТРОЙКИ =========================
-TOKEN = "MTUwODIxMTY5ODAzMTM5NDg4Nw.GBMUgy.ZhezPjcWBn_3jn14T_bYo_NYxqZdehPKk1xQaA"
+
 MAX_CHARGES = 3
 RECHARGE_MINUTES = 30
 RECHARGE_SECONDS = RECHARGE_MINUTES * 60
